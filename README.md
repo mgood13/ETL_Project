@@ -10,11 +10,13 @@ https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 
 The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
-Clean
-Join
-Stack
-Drop/Filter
-Append
+<ul>
+<li>Clean</li>
+<li>Join</li>
+<li>Stack</li>
+<li>Drop/Filter</li>
+<li>Append</li>
+</ul>
 
 Load: PostgreSQL Relational database, expected tables to generate:
 Important subset data from each dataset (x3)
