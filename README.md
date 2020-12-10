@@ -16,7 +16,7 @@ https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 </li>
 </ul>
 
-The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+Transform: We will be using pandas to transform the dataset. We will select the important columns from each dataset, remove any irrelevant data or empty rows, and combine the datasets into the relevant tables.
 <ul>
 <li>Clean</li>
 <li>Join</li>
