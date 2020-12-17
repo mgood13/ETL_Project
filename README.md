@@ -8,11 +8,12 @@ Car Sales:
 https://www.kaggle.com/gagandeep16/car-sales
 </li>
 <li>
-US Used cars Dataset: https://www.kaggle.com/ananaymital/us-used-cars-dataset?select=used_cars_data.csv
+US Used Cars Catalog
+https://www.kaggle.com/lepchenkov/usedcarscatalog
 </li>
 <li>
 Used Cars Dataset
-https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+https://www.kaggle.com/doaaalsenani/used-cars-dataets
 </li>
 </ul>
 
