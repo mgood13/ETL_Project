@@ -4,15 +4,15 @@ Project Proposal
 The sources of data that you will extract from
 <ul>
 <li>
-Car Sales:
+Vehicle Data:
 https://www.kaggle.com/gagandeep16/car-sales
 </li>
 <li>
-US Used Cars Catalog
+Belarus Used Cars Catalog
 https://www.kaggle.com/lepchenkov/usedcarscatalog
 </li>
 <li>
-Used Cars Dataset
+Japan Used Cars Dataset
 https://www.kaggle.com/doaaalsenani/used-cars-dataets
 </li>
 </ul>
@@ -29,3 +29,4 @@ Transform: We will be using pandas to transform the dataset. We will select the 
 Load: PostgreSQL Relational database, expected tables to generate:
 Important subset data from each dataset (x3)
 Make & model Key table
+Combined tables that will demonstrate each combinations of our tables such as comparing horsepower data between our used car datasets or examining car brands available in each region.
